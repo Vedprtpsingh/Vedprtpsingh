@@ -122,12 +122,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Vedprtpsingh/AJP-with-Anudip-Foundation"><b>AJP with Anudip Foundation</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/AJP-with-Anudip-Foundation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/AJP-with-Anudip-Foundation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Vedprtpsingh/AJP-with-Anudip-Foundation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Vedprtpsingh/AJP-with-Anudip-Foundation?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+  <td><a href="https://github.com/Vedprtpsingh/car-parking-maven-hibernate-project"><b>Car Parking System - Maven + Hibernate</b></a></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/car-parking-maven-hibernate-project?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/car-parking-maven-hibernate-project?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Issues" src="https://img.shields.io/github/issues/Vedprtpsingh/car-parking-maven-hibernate-project?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Vedprtpsingh/car-parking-maven-hibernate-project?style=flat-square&labelColor=343b41"/></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Vedprtpsingh/TypeTrekker"><b>TypeTrekker - Typing Game in JavaScript</b></a></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/TypeTrekker?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/TypeTrekker?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Issues" src="https://img.shields.io/github/issues/Vedprtpsingh/TypeTrekker?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Vedprtpsingh/TypeTrekker?style=flat-square&labelColor=343b41"/></td>
+</tr>
   </tbody>
 </table>
 
