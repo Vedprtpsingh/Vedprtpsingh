@@ -83,12 +83,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedprtpsingh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -399,7 +401,6 @@
     <em>This profile is manually curated to showcase my journey in software development.<br/>
     Check out my <a href="https://vedprtpsinghportpolio.vercel.app/">portfolio</a> for more detailed insights!</em>
   </p>
-  
   <img src="https://github.com/Vedprtpsingh/Vedprtpsingh/actions/workflows/main.yml/badge.svg" alt="Workflow Status" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/Vedprtpsingh?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/Vedprtpsingh?style=flat-square&labelColor=343b41"/>
