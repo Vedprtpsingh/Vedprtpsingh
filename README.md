@@ -1,7 +1,7 @@
-# <div align="center">🚀 Welcome to Ved's Digital Universe 🚀</div>
+# <div align="center" style="background: linear-gradient(90deg, #0d1117, #161b22); color: #58a6ff; padding: 20px; border-radius: 15px;">🚀 Welcome to Ved's Digital Universe 🚀</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Problem+Solver;Spring+Boot+%7C+Full+Stack+Developer;Building+Scalable+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Problem+Solver;Spring+Boot+%7C+Full+Stack+Developer;Building+Scalable+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,17 +13,20 @@
 
 ## 🎯 About Me
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.2);">
   <table>
     <tr>
       <td width="50%">
-        <h3>👨‍💻 Profile</h3>
-        <p>
+        <h3 style="color: #58a6ff;">👨‍💻 Profile</h3>
+        <p style="font-size: 16px; line-height: 1.5; color: #c9d1d9;">
           🔹 <strong>Name:</strong> Ved Pratap Singh<br/>
-          🔹 <strong>Role:</strong> Java Developer<br/>
+          🔹 <strong>Role:</strong> Java Developer & Full-Stack Engineer<br/>
           🔹 <strong>Location:</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> New Delhi, India<br/>
-          🔹 <strong>Passion:</strong> Building scalable applications<br/>
-          🔹 <strong>Focus:</strong> Backend Development & Problem Solving
+          🔹 <strong>Education:</strong> Computer Science Engineering<br/>
+          🔹 <strong>Experience:</strong> 2+ years<br/>
+          🔹 <strong>Focus:</strong> Backend Development & System Architecture<br/>
+          🔹 <strong>Current Learning:</strong> Microservices, Cloud Computing, DevOps<br/>
+          🔹 <strong>Problem Solving Languages:</strong> Java, Python
         </p>
       </td>
       <td width="50%">
@@ -37,8 +40,8 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  <h3>🔥 Languages & Frameworks</h3>
+<div align="center" style="background-color: #161b22; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.2);">
+  <h3 style="color: #58a6ff;">🔥 Languages & Frameworks</h3>
   
   <table>
     <tr>
@@ -83,14 +86,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedprtpsingh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
 <div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
