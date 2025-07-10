@@ -130,7 +130,7 @@
     <tr>
       <td>
         <a href="https://github.com/Vedprtpsingh/taskgram">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedprtpsingh&repo=meditrack&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedprtpsingh&repo=taskgram&theme=tokyonight" />
         </a>
       </td>
       <td>
@@ -408,4 +408,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
