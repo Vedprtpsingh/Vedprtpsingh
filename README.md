@@ -1,4 +1,3 @@
-
 # <div align="center">🚀 Welcome to Ved's Digital Universe 🚀</div>
 
 <div align="center">
@@ -20,7 +19,7 @@
       <td width="50%">
         <h3>👨‍💻 Profile</h3>
         <p>
-          🔹 <strong>Name:</strong> Ved<br/>
+          🔹 <strong>Name:</strong> Ved Pratap Singh<br/>
           🔹 <strong>Role:</strong> Java Developer<br/>
           🔹 <strong>Location:</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> New Delhi, India<br/>
           🔹 <strong>Passion:</strong> Building scalable applications<br/>
@@ -97,6 +96,7 @@
 ## 🚀 Featured Projects
 
 ### 🔥 Currently Working On
+
 <div align="center">
   <table>
     <tr>
@@ -120,16 +120,41 @@
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
         <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
       </td>
       <td>
         <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
         <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Vedprtpsingh/taskgram">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedprtpsingh&repo=meditrack&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <strong>🏥 TaskGram</strong><br/>
+        <em>Task Management System</em><br/>
+        🚧 <span style="color: orange;">Work in Progress</span>
+      </td>
+      <td>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
+        <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+
   </table>
 </div>
 
 ### 🏆 Major Achievements
+
 <div align="center">
   <table>
     <tr>
@@ -151,8 +176,9 @@
       </td>
       <td>
         <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img alt="JSP" src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white" />
         <img alt="JDBC" src="https://img.shields.io/badge/-JDBC-003B57?style=flat-square&logo=java&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
       </td>
       <td>
         <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/ShoppingCard?style=flat-square&labelColor=343b41"/>
@@ -172,6 +198,7 @@
       </td>
       <td>
         <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img alt="JSP" src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white" />
         <img alt="IoT" src="https://img.shields.io/badge/-IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white" />
         <img alt="AI" src="https://img.shields.io/badge/-AI-FF6F61?style=flat-square&logo=artificial-intelligence&logoColor=white" />
       </td>
@@ -184,6 +211,7 @@
 </div>
 
 ### 📦 Mini Projects Showcase
+
 <div align="center">
   <table>
     <tr>
@@ -366,7 +394,7 @@
     <img src="https://komarev.com/ghpvc/?username=Vedprtpsingh&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/Vedprtpsingh?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   </p>
-  
+  ` 
   <p>
     <em>This profile is manually curated to showcase my journey in software development.<br/>
     Check out my <a href="https://vedprtpsinghportpolio.vercel.app/">portfolio</a> for more detailed insights!</em>
@@ -380,3 +408,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
