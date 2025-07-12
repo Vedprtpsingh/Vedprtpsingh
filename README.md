@@ -8,7 +8,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
   <h2>🌟 Hey there! Nice to see you 🌟</h2>
 </div>
-
 ---
 
 ## 🎯 About Me
@@ -21,9 +20,11 @@
         <p style="font-size: 16px; line-height: 1.5; color: #c9d1d9;">
           🔹 <strong>Name:</strong> Ved Pratap Singh<br/>
           🔹 <strong>Role:</strong> Java Developer & Full-Stack Engineer<br/>
-          🔹 <strong>Location:</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> New Delhi, India<br/>
+          🔹 <strong>Location:</strong> 
+<img src="https://cdn-icons-png.flaticon.com/512/10597/10597864.png" width="13"/>
+New Delhi, India<br/>
           🔹 <strong>Education:</strong> Computer Science Engineering<br/>
-          🔹 <strong>Experience:</strong> 2+ years<br/>
+          🔹 <strong>Experience:</strong> Recently graduated | Open to opportunities<br/>
           🔹 <strong>Focus:</strong> Backend Development & System Architecture<br/>
           🔹 <strong>Current Learning:</strong> Microservices, Cloud Computing, DevOps<br/>
           🔹 <strong>Problem Solving Languages:</strong> Java, Python
@@ -89,7 +90,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedprtpsingh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=tokyonight" alt="GitHub Streak" />
 </div>
@@ -252,7 +252,7 @@
         JavaScript-based speed typing challenge
       </td>
       <td>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </td>
