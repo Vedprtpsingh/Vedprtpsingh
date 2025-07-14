@@ -15,11 +15,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Java
+      - name: Set up Java 21
         uses: actions/setup-java@v3
         with:
-          java-version: '17'
+          java-version: '21'
           distribution: 'temurin'
+
+      - name: Cache Maven packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.m2
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+          restore-keys: |
+            ${{ runner.os }}-maven-
 
       - name: Build with Maven
         run: mvn clean install
@@ -43,9 +51,10 @@ jobs:
           pip install -r requirements.txt || true
 
       - name: Run Linting (optional)
+        continue-on-error: true
         run: |
-          pip install flake8 || true
-          flake8 . || true
+          pip install flake8
+          flake8 .
 
   web-check:
     name: Static Web Check
@@ -55,5 +64,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Validate HTML/CSS/JS structure
-        run: echo "🧪 Web files checked! No actual build required."
+      - name: Install HTMLHint
+        run: npm install -g htmlhint
+
+      - name: Run HTMLHint
+        run: htmlhint ./path/to/html/files || echo "HTML issues found, but not failing build"
