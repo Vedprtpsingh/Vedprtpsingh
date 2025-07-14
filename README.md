@@ -8,7 +8,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
   <h2>🌟 Hey there! Nice to see you 🌟</h2>
 </div>
----
 
 ## 🎯 About Me
 
@@ -390,6 +389,11 @@ New Delhi, India<br/>
 </div>
 
 ---
+## 📈 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
 
 <div align="center">
   <h3>🌟 Thank You for Visiting! 🌟</h3>
@@ -397,7 +401,6 @@ New Delhi, India<br/>
     <img src="https://komarev.com/ghpvc/?username=Vedprtpsingh&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/Vedprtpsingh?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   </p>
-  ` 
   <p>
     <em>This profile is manually curated to showcase my journey in software development.<br/>
     Check out my <a href="https://vedprtpsinghportpolio.vercel.app/">portfolio</a> for more detailed insights!</em>
