@@ -129,28 +129,6 @@ New Delhi, India<br/>
         <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Vedprtpsingh/taskgram">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedprtpsingh&repo=taskgram&theme=tokyonight" />
-        </a>
-      </td>
-      <td>
-        <strong>🏥 TaskGram</strong><br/>
-        <em>Task Management System</em><br/>
-        🚧 <span style="color: orange;">Work in Progress</span>
-      </td>
-      <td>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-        <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-      </td>
-      <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
-        <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
-      </td>
-    </tr>
 
   </table>
 </div>
@@ -164,6 +142,28 @@ New Delhi, India<br/>
       <th>📝 Description</th>
       <th>🛠️ Tech Stack</th>
       <th>📊 Stats</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Vedprtpsingh/taskgram">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedprtpsingh&repo=taskgram&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <strong>🏥 TaskGram</strong><br/>
+        <em>Task Management System</em><br/>
+        ✅ <span style="color: green;">Production Ready</span>
+      </td>
+      <td>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
+        <img alt="Forks" src="https://img.shields.io/github/forks/Vedprtpsingh/meditrack?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
     <tr>
       <td>
