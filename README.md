@@ -13,8 +13,7 @@
 
 <div align="center">
 <img src="https://github.com/Vedprtpsingh/Vedprtpsingh/blob/main/assets/developer.gif" width="300" height="200" alt="Developer Animation"/>
-<img src="https://github.com/Vedprtpsingh/Vedprtpsingh/blob/main/assets/developer.gif" width="300" height="200" alt="Developer Animation"/>
-
+  
 **🔥 PASSIONATE JAVA DEVELOPER 🔥**  
 *Transforming Ideas into Scalable Solutions*
 
