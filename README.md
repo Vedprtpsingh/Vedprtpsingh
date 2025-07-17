@@ -8,9 +8,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+
 ## <div align="center">🎯 **PROFESSIONAL OVERVIEW**</div>
 
 <div align="center">
+<img src="https://github.com/Vedprtpsingh/Vedprtpsingh/blob/main/assets/developer.gif" width="300" height="200" alt="Developer Animation"/>
 <img src="https://github.com/Vedprtpsingh/Vedprtpsingh/blob/main/assets/developer.gif" width="300" height="200" alt="Developer Animation"/>
 
 **🔥 PASSIONATE JAVA DEVELOPER 🔥**  
